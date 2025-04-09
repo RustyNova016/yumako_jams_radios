@@ -1,2 +1,4 @@
-[repository]
 name = "default"
+radios = [
+  "overdue_count.json"
+]
